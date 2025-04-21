@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django, PL/SQL**
 
-- 👨‍💻 All of my projects are available at [https://deep-portfolio.kesug.com/](https://deep-portfolio.kesug.com/)
+- 👨‍💻 All of my projects are available at [https://deep-portfolioo.netlify.app/](https://deep-portfolioo.netlify.app/)
 
 - 📫 How to reach me **deepghoshal2002@gmail.com**
 
