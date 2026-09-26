@@ -1,28 +1,26 @@
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Deep Ghoshal</h1>
 
-# <span style="color:#00C8FF">👋 Hi, I'm Deep Ghoshal</span>
+<h3 align="center">
+  Software Analyst | ERP Implementation | Application Support | Linux & AWS
+</h3>
 
-### Software Analyst | ERP Implementation | Application Support | Linux & AWS
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepghoshal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=deepghoshal&label=PROFILE%20VIEWS&color=0078FF&style=for-the-badge" alt="Profile Views" />
-
-<a href="https://github.com/deepghoshal?tab=followers">
-<img src="https://img.shields.io/github/followers/deepghoshal?label=Followers&style=for-the-badge&color=0066CC&logo=github" alt="Followers" />
-</a>
-<a href="https://github.com/deepghoshal?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-0078FF?style=for-the-badge&logo=github" alt="Repositories" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://github.com/deepghoshal">
+    <img src="https://img.shields.io/github/followers/deepghoshal?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/deepghoshal?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-Explore-blue?style=flat&logo=github" alt="Explore Repositories" />
+  </a>
+</p>
 
 ---
 
-<h2 align="center">🔹 ABOUT ME</h2>
-
-<table>
-<tr>
-<td width="60%">
+## 👨‍💻 About Me
 
 - 💼 Software Analyst with experience in ERP implementation and application support.
 - 🏢 Working on enterprise ERP solutions, configuration, troubleshooting, and client support.
@@ -30,159 +28,103 @@
 - ☁️ Exploring AWS cloud services and IT infrastructure.
 - 🛠️ Working with Python, SQL, Linux, and networking fundamentals.
 - 📊 Interested in automation, system monitoring, and technical problem-solving.
-- 🚀 Building practical projects to strengthen my IT infrastructure and cloud skills.
+- 🚀 Building practical projects to strengthen my skills in IT infrastructure and cloud technologies.
 - 🌐 Portfolio: [Deep's Portfolio](https://deep-portfolioo.netlify.app/)
 - 📫 Email: **deepghoshal2002@gmail.com**
 
-</td>
-<td width="40%" align="center">
+---
 
-### 💡 My Focus
+## 🛠️ Languages, Tools & Technologies
 
-| Area | Focus |
-|---|---|
-| 💻 | Problem Solver |
-| 📚 | Continuous Learner |
-| ☁️ | Cloud Enthusiast |
-| ⚙️ | IT Professional |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,bash,aws,git,github,docker,html,css,bootstrap,postgresql,vscode&perline=7" alt="Languages and Tools" />
+</p>
 
-</td>
-</tr>
-</table>
+### Core Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ERP-Implementation-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Application-Support-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-RHEL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-CCNA%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
-<h2 align="center">🛠️ LANGUAGES, TOOLS & TECHNOLOGIES</h2>
+## 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepghoshal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepghoshal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,linux,bash,aws,git,github,docker,html,css,bootstrap,postgresql,vscode&perline=7" alt="Languages and Tools" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ERP-Implementation-0078FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Application-Support-0057B8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Linux-RHEL-0078FF?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud-AWS-0078FF?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-SQL-0078FF?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Networking-CCNA%20Fundamentals-0078FF?style=for-the-badge&logo=cisco&logoColor=white" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepghoshal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
 
 ---
 
-<h2 align="center">📊 GITHUB OVERVIEW</h2>
+## 📈 Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/deepghoshal">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepghoshal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020817&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics" />
-</a>
-
-<a href="https://github.com/deepghoshal">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepghoshal&layout=compact&theme=tokyonight&hide_border=true&bg_color=020817&title_color=00C8FF&text_color=C9D1D9" alt="Top Languages" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepghoshal&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
+</p>
 
 ---
 
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+## 🔥 Contribution Streak & Achievements
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=deepghoshal&bg_color=020817&color=00C8FF&line=0078FF&point=00C8FF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-<h2 align="center">🔥 CONTRIBUTION STREAK & ACHIEVEMENTS</h2>
-
-<div align="center">
-
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=deepghoshal&theme=tokyonight&hide_border=true&background=020817&ring=00C8FF&fire=0078FF&currStreakLabel=00C8FF" alt="Current and Longest Contribution Streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepghoshal&theme=github_dark" alt="GitHub Profile Summary" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepghoshal&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepghoshal&theme=tokyonight" alt="GitHub Profile Summary" />
+</p>
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
+## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/deepghoshal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepghoshal&repo=YOUR_PROJECT_REPO_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
+  </a>
+  <a href="https://github.com/deepghoshal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepghoshal&repo=YOUR_PROJECT_REPO_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
+  </a>
+</p>
 
-<a href="https://github.com/deepghoshal">
-<img src="https://img.shields.io/badge/Explore-My%20GitHub%20Projects-0078FF?style=for-the-badge&logo=github" alt="Explore Projects" />
-</a>
+### 💡 Project Highlights
 
-</div>
-
-### 🐧 Linux Server Monitoring & Log Analysis
-
-Monitoring system resources, analyzing logs, and automating health checks using Bash and Cron.
-
-**Technologies:** Linux · Bash · Cron · System Monitoring
-
-### 🚁 Sky Cargo – Self-Navigating Delivery Drone
-
-An autonomous cargo drone project focused on precision landing and delivery.
-
-**Technologies:** Python · Hardware · Embedded Systems
-
-### 🌐 Personal Portfolio Website
-
-A personal website showcasing projects, skills, and professional experience.
-
-[Visit Portfolio](https://deep-portfolioo.netlify.app/)
+- 🐧 **Linux Server Monitoring & Log Analysis** — Monitoring system resources, analyzing logs, and automating health checks with Bash and Cron.
+- 🚁 **Sky Cargo – Self-Navigating Delivery Drone** — Academic project focused on autonomous cargo delivery and precision landing.
+- 🌐 **Personal Portfolio Website** — A portfolio showcasing projects and technical skills.
 
 ---
 
-<h2 align="center">📦 REPOSITORY & STAR STATISTICS</h2>
+## 📦 Repository & Star Statistics
 
-<div align="center">
-
-<a href="https://github.com/deepghoshal?tab=repositories">
-<img src="https://img.shields.io/badge/📁%20Public%20Repositories-View%20All-0078FF?style=for-the-badge" alt="Public Repositories" />
-</a>
-
-<img src="https://img.shields.io/github/stars/deepghoshal?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=⭐%20Stars%20Received&color=0078FF" alt="Stars Received" />
-
-<a href="https://github.com/deepghoshal">
-<img src="https://img.shields.io/badge/GitHub-@deepghoshal-020817?style=for-the-badge&logo=github&logoColor=00C8FF" alt="GitHub Profile" />
-</a>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github?label=Total%20Public%20Repos&logo=github&style=for-the-badge" alt="GitHub" />
+  <img src="https://img.shields.io/github/stars/deepghoshal?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars%20Received" alt="Stars Received" />
+</p>
 
 ---
 
-<h2 align="center">🤝 CONNECT WITH ME</h2>
+## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/deep-ghoshal/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/deep.ghoshal.2002">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:deepghoshal2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/deep-ghoshal/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0078FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://instagram.com/deep.ghoshal.2002">
-<img src="https://img.shields.io/badge/Instagram-Follow-0078FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<a href="mailto:deepghoshal2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-0078FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/deepghoshal">
-<img src="https://img.shields.io/badge/GitHub-Follow-020817?style=for-the-badge&logo=github&logoColor=00C8FF" alt="GitHub" />
-</a>
-
-<br/><br/>
-
-### 💙 Thanks for visiting my profile!
-
-*Build · Learn · Improve · Repeat*
-
-</div>
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</b>
+</p>
