@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Deep Ghoshal</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/d428cbd62a4356fe9c61ac83438596354f2ace76bedbbf2e68f27ff987cef5c5/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/d428cbd62a4356fe9c61ac83438596354f2ace76bedbbf2e68f27ff987cef5c5/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e6769662f](https://www.21kschool.com/in/wp-content/uploads/sites/4/2023/11/15-Facts-About-Coding-Every-Kid-Should-Know.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepghoshal&label=Profile%20views&color=0e75b6&style=flat" alt="deepghoshal" /> </p>
 
