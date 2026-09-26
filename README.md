@@ -55,10 +55,10 @@
 
 ## 📊 GitHub Overview
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deepghoshal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepghoshal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepghoshal&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
@@ -68,9 +68,9 @@
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepghoshal&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-</p>
+</p> -->
 
 ---
 
@@ -85,14 +85,14 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/deepghoshal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepghoshal&repo=YOUR_PROJECT_REPO_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/deepghoshal">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepghoshal&repo=YOUR_PROJECT_REPO_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
   </a>
-</p>
+</p> -->
 
 ### 💡 Project Highlights
 
@@ -105,7 +105,7 @@
 ## 📦 Repository & Star Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/github?label=Total%20Public%20Repos&logo=github&style=for-the-badge" alt="GitHub" />
+  <!-- <img src="https://img.shields.io/github?label=Total%20Public%20Repos&logo=github&style=for-the-badge" alt="GitHub" /> -->
   <img src="https://img.shields.io/github/stars/deepghoshal?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars%20Received" alt="Stars Received" />
 </p>
 
