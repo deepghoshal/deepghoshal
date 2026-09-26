@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Deep Ghoshal - Software Analyst | Linux & AWS" />
+  <img src="https://stock.adobe.com/search?k=blue+header+banner" width="100%" alt="Deep Ghoshal - Software Analyst | Linux & AWS" />
 </p>
 <h1 align="center">Hi 👋, I'm Deep Ghoshal</h1>
 
